@@ -34,7 +34,7 @@
 
 
 // function factorial(n) {
-//     if (n ==1) {
+//     if (n == 1) {
 //         return 1
 //     } else {
 //         return n * factorial(n - 1)
@@ -68,6 +68,19 @@
 // }
 
 // console.log(fib(10));   //  89
+
+
+/* function fib(n) {
+    if (n === 0) {
+        return 0;            // fib(0) = 0
+    } else if (n === 1) {
+        return 1;            // fib(1) = 1
+    } else {
+        return fib(n - 1) + fib(n - 2);
+    }
+}
+
+console.log(fib(10));  // Вывод: 55 (а не 89, как было бы при вашей реализации) */
 
 
 

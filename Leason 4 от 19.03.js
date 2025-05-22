@@ -52,6 +52,7 @@
 // }
 
 // ask("Вы согласны?", showOk, showCancel)
+ 
 
 // let age = prompt("Сколько вам лет?")
 
@@ -75,17 +76,20 @@
 // }
 // let say = sayHello()
 
+
 // Создайте функцию doSomething, которая принимает callback-функцию и вызывает её. В качестве callback-функции передайте простую функцию, которая выводит в консоль "Я callback!".
 // function doSomething() {
 //     console.log("Я callback!")
 // }
 // doSomething()
 
+
 // Создайте функцию multiply, которая принимает два числа и возвращает их произведение, используя function expression.
 // let multiply = function(a, b) {
 //     return a + b
 // }
 // console.log(multiply)
+
 
 // Создайте функцию calculate, которая принимает два числа и callback-функцию. Callback-функция должна выполнить какую-то операцию с этими числами (например, сложение) и вернуть результат.
 
